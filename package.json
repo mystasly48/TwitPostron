@@ -1,0 +1,26 @@
+{
+  "name": "twitpostron",
+  "version": "1.0.0",
+  "description": "TwitPostron is a twitter client for post only.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mystasly48/TwitPostron.git"
+  },
+  "keywords": [
+    "twitter",
+    "electron"
+  ],
+  "author": "mystasly48",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mystasly48/TwitPostron/issues"
+  },
+  "homepage": "https://github.com/mystasly48/TwitPostron#readme",
+  "dependencies": {
+    "electron": "^5.0.2"
+  }
+}
